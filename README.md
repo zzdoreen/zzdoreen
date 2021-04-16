@@ -10,4 +10,5 @@
 
 + [vite+vue3+ts demo](https://zzdoreen.github.io/vite-vue3-ts/dist/index#/login)
 + [blog](https://zzdoreen.github.io)
++ [music app](https://zzdoreen.github.io/musicplayer/dist/index#/recommend)
 
