@@ -15,11 +15,6 @@
 <br/>
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zzdoreen&repo=zzdoreen.github.io&bg_color=4a569d&title_color=fff&text_color=fff&icon_color=F1E05A)](https://zzdoreen.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zzdoreen&repo=antdpro-base-demo&bg_color=4a569d&title_color=fff&text_color=fff&icon_color=F1E05A)](https://zzdoreen.github.io/antdpro-base-demo/dist/#/map)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zzdoreen&repo=vite-vue3-ts&bg_color=4a569d&title_color=fff&text_color=fff&icon_color=F1E05A)](https://zzdoreen.github.io/vite-vue3-ts/dist/index#/login)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zzdoreen&repo=ssms&bg_color=4a569d&title_color=fff&text_color=fff&icon_color=F1E05A)](https://github.com/zzdoreen/SSMS)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzdoreen&layout=compact&bg_color=4a569d&title_color=fff&text_color=fff&icon_color=F1E05A)](https://github.com/anuraghazra/github-readme-stats)
 
 
